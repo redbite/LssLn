@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Alessio Leone.
+- 👋 Hi, I’m Alessio Leone...
 - 👀 I’m interested in Coding, Engineering, Computers, Manga, TV Series, Film, 3D printing and Drawing!
+- 👨‍💻 C, Assembly (MIPS4), Java, HTML, CSS, ThymeLeaf, JavaScript, TypeScript, PHP, Laravel, AWS Lambda, NodeJS, MySQL, Amazon RDS. 
 - 🌱 I’m currently learning Spring Boot and Angular!
 - 📫 lssln97@gmail.com
 
