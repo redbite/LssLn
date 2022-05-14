@@ -1,4 +1,5 @@
-- 👀 I’m interested in Programming, Engineering, Computers, Reading, TV Series, Films, 3D printing and Drawing!
+Hi! I'm a junior backend developer actully working with Spring and Java.<br>
+- ✨ I’m interested in Programming, Engineering, Computers, Reading, TV Series, Films, 3D printing and Drawing!
 - 👨‍💻 C, Assembly (MIPS4), Java, HTML, CSS, ThymeLeaf, JavaScript, TypeScript, PHP, Laravel, AWS Lambda, NodeJS, MySQL, Amazon RDS. 
 - 🌱 I’m currently focusing on Spring!
 - 📫 lssln97@gmail.com
