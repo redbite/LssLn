@@ -1,8 +1,6 @@
 Hello 🌍!
 - :computer: junior backend engineer. 
-- 👨‍💻 Actually working with 🌿 Spring and 🍵 Java.
-- ✨ C, Assembly (MIPS64), Java, HTML, CSS, ThymeLeaf, JavaScript, TypeScript, PHP, Laravel, AWS Lambda, NodeJS, MySQL, Amazon RDS. 
-- :hourglass_flowing_sand: I’m interested in Programming, Engineering, Computers, Boxing, Reading, TV Series, Films, 3D printing and Drawing!
+- 👨‍💻 Actually working with 🍵 Java, 🌿 Spring, :floppy_disk: MySQL.
 - 📫 lssln97@gmail.com
 
 <!---
